@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSeona-dev)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>♀️Tech Stack 🙆‍ </h3>
+<h3>Tech Stack 🙆‍♀️ </h3>
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" >
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" >
