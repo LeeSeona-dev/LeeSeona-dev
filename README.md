@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <div align=center>
 
 <h3>📚 STACKS </h3></div>
-
+<div align=center>
 
 
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
