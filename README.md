@@ -28,18 +28,36 @@ Here are some ideas to get you started:
 <h3>📚 STACKS </h3></div>
 
 <div align=center>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" >
+
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css&logoColor=white" >
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" >
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
-<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+
+
+<br>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" >
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+
+<br>
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <br>
+
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
+ <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
 
 
 <img src="https://img.shields.io/badge/Oracle-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" >
+<br>
+ <a href="mailto:asha.sun.99@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=asha.sun.99@gmail.com"/>
+</a>
 </div>
