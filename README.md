@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSeona-dev)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>Tech Stack 🙆‍♀️ </h3>
+<div align=center><h1>📚 STACKS</h1></div>
 
+<div align=center>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" >
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" >
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
@@ -35,3 +36,4 @@ Here are some ideas to get you started:
 
 
 <img src="https://img.shields.io/badge/Oracle-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" >
+</div>
