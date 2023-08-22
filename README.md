@@ -1,3 +1,4 @@
+<div align=center>
 ### Hi there 👋
 
 <!--
@@ -23,7 +24,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSeona-dev)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<div align=center><h1>📚 STACKS</h1></div>
+<h1>📚 STACKS</h1></div>
 
 <div align=center>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" >
