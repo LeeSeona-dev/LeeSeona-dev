@@ -6,9 +6,7 @@
 
 
 <br>
- <a href="mailto:asha.sun.99@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=asha.sun.99@gmail.com"/>
-</a>
+
 
 <!--
 **LeeSeona-dev/LeeSeona-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -66,5 +64,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Oracle-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" >
 <br>
-
+ <a href="mailto:asha.sun.99@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=asha.sun.99@gmail.com"/>
+</a>
 </div>
