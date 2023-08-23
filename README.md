@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-<h3>📚 STACKS </h3></div>
+<h3>📚 Tech Stacks </h3></div>
 <div align=center>
 
 
@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Oracle-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" >
 <br>
+<h3>Contact Me 💬🥰</h3>
  <a href="mailto:asha.sun.99@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=asha.sun.99@gmail.com"/>
 </a>
